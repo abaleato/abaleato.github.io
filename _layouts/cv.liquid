@@ -38,6 +38,9 @@ layout: default
   </header>
 
   <article>
+    {% if content != '' %}
+      <div class="mb-4">{{ content }}</div>
+    {% endif %}
     <div class="cv">
       {% comment %} Determine which CV format to render {% endcomment %}
       {% assign render_rendercv = false %}
