@@ -29,6 +29,7 @@ nav_order: 4
 
 **Media.** I have been interviewed by and contributed to several radio shows and podcasts:
 
+- [Profile interview for "Meet a DESI scientist"](https://www.desi.lbl.gov/2025/11/11/anton-baleato-lizancos/). 11/2025.
 - Printed press interviews with [La Voz de Galicia](https://www.lavozdegalicia.es/), [GCiencia](https://www.gciencia.com/) and [Sermos](https://www.nosdiario.gal/articulo/cultura/anton-baleato-lizancos/20250620123934225792.html) on DESI DR2 results. 3/2025.
 - Recurring participant on the *Efervesciencia* show, Radio Galega. Topics include DESI DR2 results (3/2025), "Earendel, a estrela máis lonxana" (3/2022), and "O Universo é un panettone" (2/2022).
 - *Despierta Aragón*, Radio Aragón. 8/2023.
