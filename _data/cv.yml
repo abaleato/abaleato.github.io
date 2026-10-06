@@ -1,6 +1,6 @@
 cv:
   name: Antón Baleato Lizancos
-  label: Cosmologist & BCCP Postdoctoral Fellow
+  label: Cosmologist
   email: a.baleatolizancos@berkeley.edu
   website: https://abaleato.github.io
   summary: >
@@ -8,24 +8,36 @@ cv:
     learn about dark energy and inflation using the CMB and galaxy surveys, harnessing fast-growing techniques like gravitational lensing, delensing, and cross-correlations.
 
   address:
-    street: Campbell Hall 341
-    city: Berkeley
-    region: California
-    postalCode: "94720"
-    countryCode: US
+    street:  Rúa de Xoaquín Díaz de Rábago
+    city: Santiago de Compostela
+    region: Galicia
+    postalCode: "15705"
+    countryCode: Spain
 
   sections:
     Experience:
+      - company: Instituto Galego de Física de Altas Enerxías (IGFAE)
+        position: Oportunius Research Professor & La Caixa Junior Leader
+        location: Santiago de Compostela
+        url: http://igfae.usc.es/
+        start_date: 2027
+        end_date:
+        highlights:
+          - PI of ERC Starting Grant project ACCELLENS
+
+      - company: Institut de Física d'Altes Energies (IFAE)
+        position: Postdoctoral Fellow
+        location: Barcelona
+        url: https://www.ifae.es/
+        start_date: 9/2026
+        end_date: 12/2026
+
       - company: UC Berkeley & Lawrence Berkeley National Laboratory
-        position: Berkeley Center for Cosmological Physics Postdoctoral Fellow
-        location: Berkeley, CA
+        position: BCCP Postdoctoral Fellow
+        location: Berkeley
         url: http://bccp.berkeley.edu/
         start_date: 2021
         end_date: 2026
-        highlights:
-          - Delensing working group lead, Simons Observatory (2022–)
-          - DESI–CMB cross-correlations topical group lead (2024–)
-          - Co-coordinator of DESI Key Project combining galaxy clustering with CMB lensing to test the cosmological model (2024–)
 
     Education:
       - institution: University of Cambridge (IoA & KICC)
@@ -54,6 +66,14 @@ cv:
         end_date: 2016
 
     Awards:
+      - title: ERC Starting Grant for project ACCELLENS
+        date: 2026
+        awarder: European Research Council
+
+      - title: La Caixa Junior Leader Fellowship
+        date: 2026
+        awarder: La Caixa Foundation
+
       - title: Lancelot M. Berkeley Prize for Meritorious Work in Astronomy
         date: 2026
         awarder: American Astronomical Society
@@ -67,11 +87,6 @@ cv:
         date: 2017
         awarder: University of Cambridge
 
-      - title: Marie Sklodowska-Curie / Inphinit La Caixa Graduate Fellowship
-        date: 2017
-        awarder: La Caixa Foundation
-        summary: (Declined)
-
       - title: Instituto de Astrofísica de Canarias Summer Studentship
         date: 2017
         awarder: Instituto de Astrofísica de Canarias
@@ -79,11 +94,6 @@ cv:
       - title: Trinity College Cambridge Studentship in Mathematics
         date: 2016
         awarder: Trinity College, University of Cambridge
-
-      - title: Perimeter Institute PSI Scholarship
-        date: 2016
-        awarder: Perimeter Institute
-        summary: (Declined)
 
       - title: University of Oxford Bursary for Summer Research in Astrophysics
         date: 2014
@@ -102,6 +112,8 @@ cv:
         awarder: United World Colleges
 
     Selected Talks:
+      - bullet: "**Invited plenary talk** at XII Meeting on Fundamental Cosmology, Córdoba, Spain — *11/2026 "
+      - bullet: "**Talk & panel discussion** (with Poulin, Moradinezhad, S. F. Chen, Ballardini) — *9/2026, New Physics from Galaxy Clustering @ CERN*"
       - bullet: "**Invited talk & panel discussion** (with Zaldarriaga, Mandelbaum, Takada, Castorina) — *5/2026, From Pen and Paper to Petaflops Symposium: Cosmology's 30-Year Transformation*"
       - bullet: "**DESI: Cosmological Constraints from the Joint Analysis of Galaxy Clustering and CMB Gravitational Lensing** — *3/2026, APS Global Physics Summit*"
       - bullet: "**Cosmic acceleration through a new lens: synergies between galaxy surveys and the CMB** — *12/2025, CIEMAT; 12/2025, IFAE; [9/2025, Perimeter Institute](https://pirsa.org/25090041); 9/2025, Waterloo Center for Astrophysics*"
@@ -117,15 +129,15 @@ cv:
       - bullet: "**CMB lensing & delensing for fundamental physics** — *3/2022, Univ. of Hawaii; 10/2021, Czech Academy of Sciences*"
 
     Service:
-      - bullet: "Referee for *Phys. Rev. D*, *JCAP*, *MNRAS*, *RASTI*, *OJAp*; internal reviewer for DESI publications; reviewer of US DOE SCGSR grants"
+      - bullet: "Referee for *Phys. Rev. D*, *JCAP*, *MNRAS*, *RASTI*, *OJAp*, *A&A*; internal reviewer for DESI publications; reviewer of US DOE SCGSR grants"
       - bullet: "Lead organizer of [**New Frontiers in Cosmology 2026**](https://www.fundacion.udc.es/cosmology%2Dconference%2Dcoruna%2D2026/index.asp?id=90&idioma=EN) conference (Berkeley, Simons Foundation & Universidade da Coruña)"
       - bullet: "Organizer of the CMB Seminar and Cosmology Journal Club, UC Berkeley & LBNL (2022–24)"
       - bullet: "Chair/organizer of sessions in DESI & SO collaboration meetings and international workshops (Benasque, Cambridge, etc.)"
 
     Mentoring:
-      - bullet: "Advised five undergraduate students on research projects in collaboration with the National Society of Black Physicists, the Simons Foundation, and Berkeley N3AS. One project led to a first-author publication."
-      - bullet: "Co-advised four graduate students on SO and DESI pipeline development, leading to three publications."
-      - bullet: "Career mentor for three undergraduate students through the Berkeley Compass Project and N3AS."
+      - bullet: "Advised several undergraduate students on research projects, sometimes in collaboration with the National Society of Black Physicists, the Simons Foundation, and Berkeley N3AS."
+      - bullet: "Co-advised several graduate students on SO and DESI pipeline development and other research projects."
+      - bullet: "Career mentor for undergraduate students through the Berkeley Compass Project and N3AS."
 
     Teaching:
       - bullet: "**Introduction to Cosmology** (Prof. Pettini) — undergraduate course tutor, University of Cambridge (10/2018–1/2019)"

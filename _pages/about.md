@@ -18,11 +18,14 @@ latest_posts:
   enabled: false
 ---
 
-I am a cosmologist and BCCP postdoctoral fellow at the [Berkeley Center for Cosmological Physics](http://bccp.berkeley.edu/) at UC Berkeley and the [Lawrence Berkeley National Laboratory](https://www.lbl.gov/). Previously, I was at the University of Cambridge for my PhD and M.ASt., and at Columbia University for my B.Sc. 
+I am a cosmologist. In 2027, I will be joining [IGFAE](https://igfae.usc.es/igfae/en/), in Santiago de Compostela, as PI of the ERC Starting Grant project ACCELLENS and La Caixa Junior Leader Fellow.
+
+
+Previously, I was a Berkeley Center for Cosmological Physics postdoctoral fellow at UC Berkeley and LBNL, followed by a three-month stint at IFAE (Barcelona). I did my PhD and M.ASt. at the University of Cambridge, and my B.Sc. at Columbia University.
 
 **Research.** The ultimate goal of cosmology is to understand the evolution of the Universe and shed light on the fundamental laws of Physics. My work sits at the interface of theory and observations, geared towards extracting as much information as possible from the data—typically observations of the cosmic microwave background (CMB, relic light from the Big Bang) or the shape and distribution of galaxies tracing the large-scale structure (LSS) of the Universe.
 
-A focal point of my work is using **gravitational lensing** of background images such as the CMB or galaxies by the large-scale distribution of matter to test the cosmological model and fundamental physics, including the nature of dark energy, gravity and neutrinos. This information can also be used to sharpen observations of the B-mode polarization of the CMB—a crucial step in the search for the very weak primordial B-mode signal thought to have been produced by gravitational waves generated during [cosmic inflation](https://en.wikipedia.org/wiki/Inflation_(cosmology)), a tiny fraction of a second after the beginning of time.
+A focal point of my work is using **gravitational lensing** of background images such as the CMB or galaxies by the large-scale distribution of matter to test the cosmological model and fundamental physics, including the nature of the dark sector, gravity and neutrinos. This information can also be used to sharpen observations of the B-mode polarization of the CMB—a crucial step in the search for the very weak primordial B-mode signal thought to have been produced by gravitational waves generated during [cosmic inflation](https://en.wikipedia.org/wiki/Inflation_(cosmology)), a tiny fraction of a second after the beginning of time.
 
 Though primarily a theorist, I enjoy working at the interface with data. I am a member of two major international collaborations: the [Simons Observatory (SO)](https://simonsobservatory.org/), where I co-lead the delensing working group, and the [Dark Energy Spectroscopic Instrument (DESI)](https://www.desi.lbl.gov/), where I am coordinating a DR2 Key Project jointly analyzing galaxy clustering with lensing observables.
 
